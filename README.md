@@ -1,1 +1,2 @@
-# ourfavorites
+# ourfavorites 
+# We chose this license
